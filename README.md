@@ -6,6 +6,7 @@ This repository showcases a collection of my interactive and insightful **Power 
 - 🛒 **BlinkIt Sales Dashboard** – Track sales, revenue trends, and product performance.
 - 👩‍💼 **HR Analytics Dashboard** – Employee distribution, attrition analysis, and recruitment insights.
 - 🏢 **Sales & Operations Dashboard** – Operational efficiency, sales forecasting, and KPI tracking.
+- and many more 🕺......
 
 ## 💡 Features
 - Clean and professional UI/UX
